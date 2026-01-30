@@ -1,18 +1,9 @@
-## Getting Started
+## Projeto de banco em Java
+esse projeto foi criado junto ao curso Java developer da Dio, aonde coloquei meus conhecimentos de Poo, e conseguir desenvolver os 4 pilares da poo, como:
+-Abstração
+-Poliformismo
+-Herança
+-Encapsulamento
+Além disso também coloquei alguns conceito de boas praticas de projeto e organização
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
